@@ -1,0 +1,106 @@
+/* Friends Font Family */
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-UltraLight.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-UltraLightItalic.otf') format('opentype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-Thin.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-ThinItalic.otf') format('opentype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-Normal.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-NormalItalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-Italic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-SemiBold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-SemiBoldItalic.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-Black.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-BlackItalic.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-UltraBold.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Friends';
+    src: url('./assets/fonts/Friends-UltraBoldItalic.otf') format('opentype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+:root {
+    font-family: 'Friends', system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
