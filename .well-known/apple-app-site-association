@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7K8MS6VJC9.com.rc.almondsapp",
+        "paths": ["/checkout/*"]
+      }
+    ]
+  }
+}
